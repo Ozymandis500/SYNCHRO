@@ -45,6 +45,10 @@ Example:
 Do not switch network or unplug the USB drive while the backup is in progress data might me lost.
 !!! Use the code at your own risk any data loss during or after the backup process i will not be responsible.!!!
 ```
+## <a href=https://github.com/Ozymandis500/SYNCHRO/releases> RELEASES </a>
+<a href=SECURITY.md> ANY SECURITY ISSUES ?? </a>
+# <a href=https://github.com/Ozymandis500>  CREATED BY JAIZ M.ROY</a>
+
 
 
 
