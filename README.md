@@ -47,7 +47,7 @@ Do not switch network or unplug the USB drive while the backup is in progress da
 ```
 ## <a href=https://github.com/Ozymandis500/SYNCHRO/releases> RELEASES </a>
 <a href=SECURITY.md> ANY SECURITY ISSUES ?? </a>
-# <a href=https://github.com/Ozymandis500>  CREATED BY JAIZ M.ROY</a>
+## CREATED BY <a href=https://github.com/Ozymandis500>JAIZ M.ROY</a>
 
 
 
