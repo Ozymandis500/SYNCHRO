@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## ![Logo](https://user-images.githubusercontent.com/63179955/110835559-f6c15b80-82c4-11eb-9105-546daa2c3b42.png) SYNCHRO  
 
-You can use the [editor on GitHub](https://github.com/Ozymandis500/SYNCHRO/edit/ORIGINAL/README.md) to maintain and preview the content for your website in Markdown files.
+## How to setup the SYNCHRO
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### STEP 1
+Create a *`BACKUP_LOG`* folder in the root of the backup disk or folder
+![STEP-2](https://user-images.githubusercontent.com/63179955/110827877-80206000-82bc-11eb-85de-18654c8f6b9f.gif)
+```markdown
+-NOTE
+If you didn't create the `BACKUP_LOG` folder you will get a error
+Example:
+```
+![STEP-1a](https://user-images.githubusercontent.com/63179955/110830930-bf9c7b80-82bf-11eb-8b1d-b841735c880c.gif)
 
-### Markdown
+### STEP 2
+Downlaod the zip file from the repo, unpack the zip file and double click on SETUP.bat
+![STEP-2 1](https://user-images.githubusercontent.com/63179955/110831339-26ba3000-82c0-11eb-9330-409f535b4a57.gif)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### STEP 3
+1. The client name or ip address
+2. The server name or ip addres
+![STEP-1](https://user-images.githubusercontent.com/63179955/110814184-39783900-82af-11eb-84cd-e58d63960f18.gif)
+```markdown
+-NOTE
+If you are using this code for backup into a `USB drive` use same computer name or ip address for client and server system
+Example:
+```
+![STEP-1b](https://user-images.githubusercontent.com/63179955/110826160-ceccfa80-82ba-11eb-869e-9a5530fa4089.gif)
+
+### STEP 4
+1. Select the location of the drive or the folder that you want to backup
+![STEP-2a](https://user-images.githubusercontent.com/63179955/110829336-fffafa00-82bd-11eb-8b5c-0b92ce120f3e.gif)
+2. Select the loaction of the drive or the folder that will contain the backup
+![STEP-2b](https://user-images.githubusercontent.com/63179955/110829442-20c34f80-82be-11eb-80da-ca1a92210815.gif)
+
+### After the configuration is done correctly the backup script will start and files will be sycned.
+### For running the script again click on the icon that is created on the desktop or from the start menu bar.
+![image](https://user-images.githubusercontent.com/63179955/110836929-a77c2a80-82c6-11eb-819d-cc15fecc8892.png)
+![image](https://user-images.githubusercontent.com/63179955/110837088-d4c8d880-82c6-11eb-8704-bb88f5949f58.png)
+
+
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+-NOTE
+Do not switch network or unplug the USB drive while the backup is in progress data might me lost.
+!!! Use the code at your own risk any data loss during or after the backup process i will not be responsible.!!!
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ozymandis500/SYNCHRO/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
