@@ -39,9 +39,9 @@ Example:
 ![image](https://user-images.githubusercontent.com/63179955/110837088-d4c8d880-82c6-11eb-8704-bb88f5949f58.png)
 
 ### OVERVIEW
+Here is a link to a short video for how to set up and use.
 
-![SYNCHRO](https://user-images.githubusercontent.com/63179955/110892373-f3a48a80-8319-11eb-9656-23a3c3fdc8bb.mp4)
-
+https://user-images.githubusercontent.com/63179955/110892373-f3a48a80-8319-11eb-9656-23a3c3fdc8bb.mp4
 
 ```markdown
 -NOTE
