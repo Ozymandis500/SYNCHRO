@@ -38,15 +38,18 @@ Example:
 ![image](https://user-images.githubusercontent.com/63179955/110836929-a77c2a80-82c6-11eb-819d-cc15fecc8892.png)
 ![image](https://user-images.githubusercontent.com/63179955/110837088-d4c8d880-82c6-11eb-8704-bb88f5949f58.png)
 
+### OVERVIEW
+
+![SYNCHRO](https://user-images.githubusercontent.com/63179955/110892373-f3a48a80-8319-11eb-9656-23a3c3fdc8bb.mp4)
 
 
 ```markdown
 -NOTE
 Do not switch network or unplug the USB drive while the backup is in progress data might me lost.
-!!! Use the code at your own risk any data loss during or after the backup process i will not be responsible.!!!
+## !! Use the code at your own risk any data loss during or after the backup process i will not be responsible.!!
 ```
-## <a href=https://github.com/Ozymandis500/SYNCHRO/releases> RELEASES </a>
-<a href=SECURITY.md> ANY SECURITY ISSUES ?? </a>
+## -<a href=https://github.com/Ozymandis500/SYNCHRO/releases> RELEASES </a>
+<a href=SECURITY.md>-SECURITY RELATED ISSUES</a>
 ## CREATED BY <a href=https://github.com/Ozymandis500>JAIZ M.ROY</a>
 
 
