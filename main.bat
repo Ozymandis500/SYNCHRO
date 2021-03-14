@@ -15,17 +15,18 @@ SET TIMESTAMP=%DATE:~10,4%-%DATE:~4,2%-%DATE:~7,2%-%TIME:~0,2%-%TIME:~3,2%-%TIME
 REM HANDS THE REST TO "config.bat" TO GET  DETAILS
 
 	CALL %dirt%\config.bat
-
+	
 SET LOCAL_PATH= %c_path%
 SET SERVER_PATH=%s_path%
-SET LOG_FILE=%SERVER_PATH%\BACKUP_lOG
+SET LOG_FILE=%SERVER_PATH%\BACKUP_LOG
+
 
 ECHO======================================================
 ECHO BACKUP STARTED \
 ECHO======================================================
 
 REM ROBOCOPY IS USED FOR COPYING
-ROBOCOPY %LOCAL_PATH%  %SERVER_PATH% /E /J /ETA /XD $RECYCLE.BIN /R:10 /W:10  /LOG+:%LOG_FILE%\backup_%FL_NAME%.log /TEE
+ROBOCOPY %LOCAL_PATH%  %SERVER_PATH% /E /J /ETA /XD $RECYCLE.BIN "System Volume Information" /R:5 /W:3  /LOG+:%LOG_FILE%\BACKUP_%FL_NAME%.log /TEE
 NET use %SERVER%\ipc$ /DEL
 
 ECHO======================================================
